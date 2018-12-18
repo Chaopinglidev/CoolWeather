@@ -6,7 +6,7 @@ public class City extends DataSupport {
 
     private int id;
 
-    private String cityName;  //城市名
+    private String cityName;  //城市名。。。。。。
 
     private int cityCode;
 
